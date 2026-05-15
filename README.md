@@ -29,7 +29,11 @@ Calculation of key metabolic phenotypes and pathway activity metrics
 
 Clustering analyses performed using:
 
-Clinical data
+Clinical data and metabolic data:
+
+<img width="1330" height="1202" alt="image" src="https://github.com/user-attachments/assets/88231625-0054-4181-8e72-442dbc5ca9d2" />
+
+<img width="1330" height="1202" alt="image" src="https://github.com/user-attachments/assets/a24958c1-0025-4f04-b176-7e31d120ec99" />
 
 ## Key findings
 <img width="2250" height="2625" alt="image" src="https://github.com/user-attachments/assets/55273bb0-db31-44d9-a676-a818bbc43fd1" />
