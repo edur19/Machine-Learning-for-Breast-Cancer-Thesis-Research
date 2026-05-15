@@ -8,7 +8,7 @@ This repository contains scripts, workflows, and resources used to reproduce the
 
 🧬 Overview
 
-The project focuses on generating personalized Genome-Scale Metabolic Models (GEMs) for breast cancer patients and establishing associations between clinically stratified patient groups and the metabolic phenotypic space through comprehensive correlation analyses
+The project focuses on generating personalized Genome-Scale Metabolic Models (GEMs) for breast cancer patients and apply Unsupervised Learning to classify patiens using clinical and metabolic data
 
 📂 Contents of the repository
 1. GEM construction
