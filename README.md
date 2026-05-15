@@ -4,6 +4,8 @@ Master’s Thesis Research Repository
 This repository contains scripts, workflows, and resources used to reproduce the results of my Master’s thesis:
 “Precision Oncology for Breast Cancer Diagnosis.”
 
+## The repository does not include the final analyses or results, as the associated manuscript is currently under review for publication.
+
 🧬 Overview
 
 The project focuses on generating personalized Genome-Scale Metabolic Models (GEMs) for breast cancer patients and establishing associations between clinically stratified patient groups and the metabolic phenotypic space through comprehensive correlation analyses
