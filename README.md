@@ -11,7 +11,7 @@ This repository contains scripts, workflows, and resources used to reproduce the
 The project focuses on generating personalized Genome-Scale Metabolic Models (GEMs) for breast cancer patients and establishing associations between clinically stratified patient groups and the metabolic phenotypic space through comprehensive correlation analyses
 
 📂 Contents of the repository
-1. Personalized GEM construction
+1. GEM construction
 
 MATLAB scripts for building patient-specific metabolic models
 
@@ -30,11 +30,3 @@ Calculation of key metabolic phenotypes and pathway activity metrics
 Clustering analyses performed using:
 
 Clinical data
-
-Metabolic model outputs
-
-4. Cross-omics correlation analysis
-
-Comparison and correlation of clusters across all data types
-
-Identification of shared metabolic signatures and phenotypic subclasses
